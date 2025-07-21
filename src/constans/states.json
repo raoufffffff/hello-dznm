@@ -60,8 +60,8 @@
     "code": "08",
     "name": "Bechar",
     "ar_name": "بشار",
-    "stop_back": 800,
-    "prix_initial": 1200
+    "stop_back": "100",
+    "prix_initial": "300"
   },
   {
     "id": 9,
